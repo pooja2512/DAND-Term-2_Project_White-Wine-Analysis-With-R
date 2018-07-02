@@ -2,20 +2,20 @@
 
 This project was completed as part of the course requirements of Udacity's [Data Analyst Nanodegree](https://in.udacity.com/) certification
 
-> White wine is a wine whose colour can be straw-yellow, yellow-green, or yellow-gold. It is produced by the alcoholic fermentation of the non-coloured pulp of grapes, which may have a skin of any colour. White wine has existed for at least 2500 years
+White wine is a wine whose colour can be straw-yellow, yellow-green, or yellow-gold. It is produced by the alcoholic fermentation of the non-coloured pulp of grapes, which may have a skin of any colour. White wine has existed for at least 2500 years
 
-> Citation Request:
+Citation Request:
   This dataset is public available for research. The details are described in [Cortez et al., 2009]. 
   
->  P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. 
+P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. 
   Modeling wine preferences by data mining from physicochemical properties.
   In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.
 
->  Available at: [@Elsevier] http://dx.doi.org/10.1016/j.dss.2009.05.016
+Available at: [@Elsevier] http://dx.doi.org/10.1016/j.dss.2009.05.016
                 [Pre-press (pdf)] http://www3.dsi.uminho.pt/pcortez/winequality09.pdf
                 [bib] http://www3.dsi.uminho.pt/pcortez/dss09.bib
                 
-> The inputs include objective tests (e.g. PH values) and the output is based on sensory data (median of at least 3 evaluations made by wine experts). Each expert graded the wine quality between 0 (very bad) and 10 (very excellent).
+The inputs include objective tests (e.g. PH values) and the output is based on sensory data (median of at least 3 evaluations made by wine experts). Each expert graded the wine quality between 0 (very bad) and 10 (very excellent).
 
 * 1.Title: Wine Quality 
 
@@ -25,9 +25,9 @@ This project was completed as part of the course requirements of Udacity's [Data
 
 * 4.Number of Attributes: 13 attributes
 
-> Attribute information:
+Attribute information:
 
-> Input variables (based on physicochemical tests):
+Input variables (based on physicochemical tests):
 
 * 1 - fixed acidity (tartaric acid - g / dm^3)
 
@@ -54,7 +54,7 @@ This project was completed as part of the course requirements of Udacity's [Data
 * Output variable (based on sensory data): 
    12 - quality (score between 0 and 10)
 
-> **Description of attributes:**
+**Description of attributes:**
 
 * 1 - fixed acidity: most acids involved with wine or fixed or nonvolatile (do not evaporate readily)
 
@@ -78,7 +78,7 @@ This project was completed as part of the course requirements of Udacity's [Data
 
 * 11 - alcohol: the percent alcohol content of the wine
 
->   Output variable (based on sensory data): 
+Output variable (based on sensory data): 
 
 * 12 - quality (score between 0 and 10)
 
