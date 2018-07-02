@@ -16,6 +16,8 @@ Available at: [@Elsevier] http://dx.doi.org/10.1016/j.dss.2009.05.016
                 [Pre-press (pdf)] http://www3.dsi.uminho.pt/pcortez/winequality09.pdf
                 [bib] http://www3.dsi.uminho.pt/pcortez/dss09.bib
                 
+[View Code here]()https://github.com/pooja2512/DAND-Term-2_Project_White-Wine-Analysis-With-R/blob/master/whitewine_exploratory_analysis.rmd
+                
 The inputs include objective tests (e.g. PH values) and the output is based on sensory data (median of at least 3 evaluations made by wine experts). Each expert graded the wine quality between 0 (very bad) and 10 (very excellent).
 
 - 1.Title: Wine Quality 
