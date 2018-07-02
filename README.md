@@ -61,15 +61,17 @@ Output variable (based on sensory data):
 
 - 12 - quality (score between 0 and 10)
 
-## Statistical Analyses
-Examinations of central tendency and spread
-Data visualization of univariate, bivarte and multivariate relationships
-Correlation testing
+## Statistical Analysis
+
+- Examinations of central tendency and spread
+- Data visualization of univariate, bivarte and multivariate relationships
+- Correlation testing
 
 ## Technologies Used
-R, R Markdown
-Libraries: ggplot2,dplyr,GGally,gridExtra,RColorBrewer,ggcorrplot,ggExtra
-R studio
+
+- R, R Markdown
+- Libraries: ggplot2,dplyr,GGally,gridExtra,RColorBrewer,ggcorrplot,ggExtra
+- R studio
 
 ## Key Findings
 
