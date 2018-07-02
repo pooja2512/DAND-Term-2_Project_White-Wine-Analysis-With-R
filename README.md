@@ -61,6 +61,16 @@ Output variable (based on sensory data):
 
 - 12 - quality (score between 0 and 10)
 
+## Statistical Analyses
+Examinations of central tendency and spread
+Data visualization of univariate, bivarte and multivariate relationships
+Correlation testing
+
+## Technologies Used
+R, R Markdown
+Libraries: ggplot2,dplyr,GGally,gridExtra,RColorBrewer,ggcorrplot,ggExtra
+R studio
+
 ## Key Findings
 
 - Four Major attributes to decide the Quality of wine are  Alcohol,Residual Sugar,Density,Acidity Levels.
@@ -68,7 +78,3 @@ Output variable (based on sensory data):
 - Density has inverse correlation with quality it decreases with increasing quality ratings.
 - Acidity levels of white wine ranges between 2.8 to 3.5
 - For high acidity levels Content of residual sugar increases and alcohol content decreases.Higher the acidity in a wine, the more residual sugar the wine can have.
-
-
-
-
