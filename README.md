@@ -59,3 +59,14 @@ Output variable (based on sensory data):
 
 - 12 - quality (score between 0 and 10)
 
+## Key Findings
+
+- Four Major attributes to decide the Quality of wine are  Alcohol,Residual Sugar,Density,Acidity Levels.
+- With increasing Quality alcohol content increases but residual sugar decreases therefore high quality wines are more alcoholic and less sweet.
+- Density has inverse correlation with quality it decreases with increasing quality ratings.
+- Acidity levels of white wine ranges between 2.8 to 3.5
+- For high acidity levels Content of residual sugar increases and alcohol content decreases.Higher the acidity in a wine, the more residual sugar the wine can have.
+
+
+
+
